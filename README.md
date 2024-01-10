@@ -44,4 +44,5 @@ Begin creating tasks by entering the necessary information. Explore Additional F
 
 Take advantage of any additional features provided by the desktop application, such as offline access or desktop notifications.
 
-Output of the application :
+Output of the application :<img width="127" alt="Screenshot 2024-01-10 143913" src="https://github.com/V939271/venkat9392/assets/147130639/9d65cf4a-f43c-4f92-ac1c-b8f94846eebb">
+
